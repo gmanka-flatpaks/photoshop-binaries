@@ -1,0 +1,5 @@
+AdobePhotoshop2021.tar.xz filter=lfs diff=lfs merge=lfs -text
+AdobePhotoshop2022.tar.xz filter=lfs diff=lfs merge=lfs -text
+commonfiles_adobe_2022.tar.xz filter=lfs diff=lfs merge=lfs -text
+commonfiles_adobe_2023.zip filter=lfs diff=lfs merge=lfs -text
+photoshop2023.zip filter=lfs diff=lfs merge=lfs -text
