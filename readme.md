@@ -29,7 +29,8 @@ this repo stores photoshop binaries needed for flatpak packages to work
 
 ### photoshop2023.zip
 
-- github: https://github.com/gmanka-flatpaks/photoshop-binaries/raw/refs/heads/main/photoshop2023.zip
+- github raw: https://github.com/gmanka-flatpaks/photoshop-binaries/raw/refs/heads/main/photoshop2023.zip
+- github releases: https://github.com/gmanka-flatpaks/com.adobe.photoshop2023/releases/latest/download/photoshop2023.zip
 - webarchive: https://web.archive.org/web/*/https://github.com/gmanka-flatpaks/com.adobe.photoshop2023/releases/download/photoshop2023/photoshop2023.zip
 - source: https://nnmclub.to/forum/viewtopic.php?t=1627843
 - source torrent: `magnet:?xt=urn:btih:890ADBC7418CA22AD185613D128B4BB37D6C771C`
@@ -38,6 +39,7 @@ this repo stores photoshop binaries needed for flatpak packages to work
 ### commonfiles_adobe_2023.zip
 
 - github raw: https://github.com/gmanka-flatpaks/photoshop-binaries/raw/refs/heads/main/commonfiles_adobe_2023.zip
+- github releases: https://github.com/gmanka-flatpaks/com.adobe.photoshop2023/releases/latest/download/commonfiles_adobe_2023.zip
 - webarchive: https://web.archive.org/web/*/https://github.com/gmanka-flatpaks/com.adobe.photoshop2023/releases/download/photoshop2023/commonfiles_adobe_2023.zip
 - source: https://nnmclub.to/forum/viewtopic.php?t=1627843
 - source torrent: `magnet:?xt=urn:btih:890ADBC7418CA22AD185613D128B4BB37D6C771C`
